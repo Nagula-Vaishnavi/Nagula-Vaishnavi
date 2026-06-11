@@ -26,4 +26,4 @@ I'm Vaishnavi Nagula, a 4th-year B.Tech student with a strong interest in Artifi
 
 ## 📅 GitHub Commit Calendar
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagula-Vaishnavi)
+![GitHub Contribution Grid](https://ghchart.rshah.org/Nagula-Vaishnavi)
